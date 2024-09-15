@@ -46,13 +46,15 @@ form .display{
     margin:20px 0;
     border: black solid 1px;
     border-radius: 10px;
+    background: aquamarine;
 }
 
 form .display input{
     text-align: right;
     flex: 1;
-    font-size: 45px;
+    font-size: 43px;
     box-shadow: none;
+    color: black;
 }
 
 form input.equal{

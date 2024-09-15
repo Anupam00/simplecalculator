@@ -44,6 +44,8 @@ form .display{
     display: flex;
     justify-content: flex-end;
     margin:20px 0;
+    border: black solid 1px;
+    border-radius: 10px;
 }
 
 form .display input{
@@ -60,4 +62,11 @@ form input.equal{
 
 form input.operat{
     color: aqua;
+}
+
+form .heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bolder;
 }
